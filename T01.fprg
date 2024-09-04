@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="Suchia Panjaitan"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:18 PM"/>
+        <attribute name="created" value="U3VjaGlhIFBhbmphaXRhbjtMQVBUT1AtN1ZGSUU1MEI7MjAyNC0wOS0wNDswODoyMzoyNSBQTTszODY5"/>
+        <attribute name="edited" value="U3VjaGlhIFBhbmphaXRhbjtMQVBUT1AtN1ZGSUU1MEI7MjAyNC0wOS0wNDswOToxMDoxOCBQTTsxOzM5NzY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nama" type="String" array="False" size=""/>
+            <input variable="nama"/>
+            <output expression="nama" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
